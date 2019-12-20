@@ -11,8 +11,8 @@ To run the code:
   4. Run code (this will source *bubble_plot_functions.R* and generate all plots)
   
 The following libraries must be installed for the code to function.
-*openxlsx
-*ggpubr
-*packcircles
-*ggplot2
-*grid
+* openxlsx
+* ggpubr
+* packcircles
+* ggplot2
+* grid
