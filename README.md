@@ -2,7 +2,7 @@
 ### This repository contains the code associated with Sharma et al. 20XX 
 [link to paper](http://med.stanford.edu/majetilab.html)
 
-The code in the repository generates all bubbple plots shown in the publication (Figures 4,5,extended figures 3,5).
+The code in the repository generates all bubble plots shown in the publication (Figures 4,5,Extended Figures 3,5).
 
 To run the code: 
   1. Download or clone the repository locally.
