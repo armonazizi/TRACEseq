@@ -16,3 +16,6 @@ The following libraries must be installed for the code to function.
 * packcircles
 * ggplot2
 * grid
+
+
+The script *align_and_filter_pre_tuba_HBB.py* is utilized in our analyses within the TUBAseq pipeline as described in the manuscript. The script filters a fastq file and bins reads into HR, NHEJ, Unmodified, and Other categories.
