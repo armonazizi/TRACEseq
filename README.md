@@ -1,6 +1,6 @@
 # TRACEseq Code
 ### This repository contains the code associated with Sharma et al. 20XX 
-[link to paper](http://med.stanford.edu/majetilab.html)
+[link to paper](https://www.biorxiv.org/content/10.1101/2020.05.25.115329v1)
 
 The code in the repository generates all bubble plots shown in the publication (Figures 4,5,Extended Figures 3,5).
 
